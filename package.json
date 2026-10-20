@@ -1,0 +1,6 @@
+{
+  "name": "morrow-notes",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node start.js" }
+}
